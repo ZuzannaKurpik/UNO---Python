@@ -1,0 +1,14 @@
+==================== Instrukcja użytkownika =========================
+Uruchom program.
+Na ekranie pojawi się menu, z którego możesz wybrać opcję "Start Game" aby rozpocząć grę.
+Po rozpoczęciu gry, karty zostaną rozdane graczom.
+Gracze na przemian wykonują ruchy, próbując pozbyć się wszystkich swoich kart.
+Karty należy kłąść tak aby zawsze zgadzała się cyfra na karcie lub kolor karty. Mamy również białe karty specjalne.
+Pamiętaj nacisnąć UNO gdy masz jedną karte, inaczej dobierzesz 5 kart.
+Gra kończy się, gdy któryś z graczy pozbywa się wszystkich swoich kart. Ten gracz jest ogłaszany zwycięzcą.
+
+
+==================== Instrukcja uruchomienia ===============================
+Upewnij się, że masz zainstalowaną odpowiednią wersję Pythona (3.7 lub nowszą).
+Zainstaluj wymagane biblioteki, takie jak pygame, używając polecenia pip install -r requirements.txt.
+Uruchom program za pomocą polecenia python main.py (lub python3 main.py, w zależności od Twojego systemu).
